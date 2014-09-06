@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		230ADFB219BB3AF5006F19BB /* TeamHelloWorld.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TeamHelloWorld.playground; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		230ADFAB19BB3ACE006F19BB = {
 			isa = PBXGroup;
 			children = (
+				230ADFB219BB3AF5006F19BB /* TeamHelloWorld.playground */,
 			);
 			sourceTree = "<group>";
 		};
