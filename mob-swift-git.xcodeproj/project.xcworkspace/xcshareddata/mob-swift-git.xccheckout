@@ -5,7 +5,11 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 	<string>6878BB93-C72B-4282-9F6C-55C088D6B7AE</string>
+=======
+	<string>F0EB0964-79B7-4EDC-AD55-CFA735C8D378</string>
+>>>>>>> 86d9c3c1806a5a24e1b785f2fc0269e8f743ee17
 	<key>IDESourceControlProjectName</key>
 	<string>mob-swift-git</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
