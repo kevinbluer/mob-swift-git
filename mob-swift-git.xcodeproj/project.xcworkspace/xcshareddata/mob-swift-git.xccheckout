@@ -5,13 +5,25 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 	<string>3223A332-4D48-414C-8CA5-56668E9EA408</string>
+=======
+<<<<<<< HEAD
+	<string>6878BB93-C72B-4282-9F6C-55C088D6B7AE</string>
+=======
+	<string>F0EB0964-79B7-4EDC-AD55-CFA735C8D378</string>
+>>>>>>> 86d9c3c1806a5a24e1b785f2fc0269e8f743ee17
+>>>>>>> cff1921706fa6e7f4255150a9945c44f92031200
 	<key>IDESourceControlProjectName</key>
 	<string>mob-swift-git</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>771C883AF72CD15FBEA42B3BA5976345F2563D68</key>
+<<<<<<< HEAD
 		<string>https://github.com/kevinbluer/mob-swift-git</string>
+=======
+		<string>https://github.com/kevinbluer/mob-swift-git.git</string>
+>>>>>>> cff1921706fa6e7f4255150a9945c44f92031200
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>mob-swift-git.xcodeproj</string>
@@ -21,7 +33,11 @@
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
+<<<<<<< HEAD
 	<string>https://github.com/kevinbluer/mob-swift-git</string>
+=======
+	<string>https://github.com/kevinbluer/mob-swift-git.git</string>
+>>>>>>> cff1921706fa6e7f4255150a9945c44f92031200
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
