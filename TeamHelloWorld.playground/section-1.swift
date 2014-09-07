@@ -3,7 +3,7 @@
 import UIKit
 
 println("Hello from AA")
-println("Hello from BL")
+println("Hello from Bjorn Li")
 println("Hello from CW")
 println("Hello from KK")
 println("Hello from KB")
