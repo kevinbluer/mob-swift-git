@@ -8,6 +8,6 @@ println("Hello from CW")
 println("Hello from Kalina")
 println("Hello from KB")
 println("Hello from LC")
-println("Hello from VL")
+println("Hello from Victor")
 println("Hello from WK")
-
+println("Hello from Kevin")
